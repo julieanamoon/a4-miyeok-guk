@@ -12,7 +12,7 @@
 - Fictional information; I am not a Michelin star chef.
 - I do not own any of the images used, all rights reserved. Please email me for references
 ---
-![Alt text](/relative/path/to/readme-intro.jpg?raw=true "Optional Title")
+![Alt text](http://full/path/to/readme-intro.jpg "Optional title")
 
 ![Alt text](/relative/path/to/readme-intro2.jpg?raw=true "Optional Title")
 
