@@ -104,7 +104,7 @@ h4 {
 }
 
 .copyright {
-  font-size 5px;
+  font-size: 5px;
 }
 
 .promo {
@@ -154,7 +154,6 @@ a.promo-link {
   display: inline-block;
   border-radius: 50%;
   padding:0px;
-  float: left;
 }
 
 
