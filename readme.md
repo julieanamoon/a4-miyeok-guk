@@ -12,7 +12,3 @@
 - Fictional information; I am not a Michelin star chef.
 - I do not own any of the images used, all rights reserved. Please email me for references
 ---
-![readme-intro](readme-intro.jpg)
-
-![readmeintro2](readme-intro2.jpg)
-
