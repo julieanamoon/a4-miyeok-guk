@@ -245,6 +245,7 @@ input[type=submit] {
     height: 40px;
     border-radius: 50%;
     padding:0px;
+    text-decoration: none;
     /* border: 2px solid white; */
 }
 
