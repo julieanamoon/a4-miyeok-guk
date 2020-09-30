@@ -156,6 +156,10 @@ a.promo-link {
   padding:0px;
 }
 
+.socialmedia-logo {
+  text-decoration: none;
+}
+
 
 /* CHEF IMAGE */
 .chef {
